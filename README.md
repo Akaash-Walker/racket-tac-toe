@@ -1,4 +1,4 @@
-# racket-tac-toe
+# Racket-Tac-Toe
 Tic-Tac-Toe Game written in Racket!
 
 To play, download the code, run the program, and type "(main START)" into the terminal!
